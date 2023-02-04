@@ -114,7 +114,7 @@ global.pdana = '-' //Isi aja klo punya
 global.povo = '-' //Isi Aja klo punya 
 global.pgopay = '-' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '-' //Isi aja klo punya 
+global.ppulsa = '60109102984' //Isi aja klo punya 
 global.ppulsa2 = '-' //Isi aja klo punya 
 global.psaweria = 'https://telegra.ph/file/00add9b37e30c2f4d23a3.jpg' //Ganti aja ini Link gambar QR
 
