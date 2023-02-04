@@ -6,7 +6,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let str = `
 
 ┌─「 Donasi • Pulsa 」
-│ • *Telkomsel:* [${global.ppulsa}]
+│ • *Digi:* [${global.ppulsa}]
 ❏────
 
 ┌─「 Donasi • Non Pulsa 」
@@ -21,7 +21,7 @@ conn.send3ButtonDoc(m.chat, str, botdate,'Sewa Bot','.sewa','QR+PAYMENT','.donas
     mediaUrl: "tautanwa",
     mediaType: "tautanwa",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'AMELIA PUTRI SEPTIANY',
+    title: 'Vincenzoo`',
     body: bottime,
     thumbnail: thumb,
     sourceUrl: syt
