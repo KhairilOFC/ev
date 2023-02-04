@@ -11,7 +11,7 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productId": "5489299044451325",
 "title": `QR+SEWA+BOTZ`,
 "description": `HALO BANG`,
-"currencyCode": "IDR",
+"currencyCode": "MYR",
 "bodyText": wm,
 "footerText": wm,
 "priceAmount1000": "3000",
@@ -19,9 +19,9 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": wm,
-"url": "http://wa.me/6283863727733"
+"url": "http://wa.me/60109102984"
 },
-"businessOwnerJid": "6283863727733@s.whatsapp.net",
+"businessOwnerJid": "60109102984@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftroli })    
 
